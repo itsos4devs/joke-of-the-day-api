@@ -1,0 +1,28 @@
+{
+  "name": "joke-of-the-day-api",
+  "version": "1.0.0",
+  "description": "ExpressJS NODE based API to tell us the joke of the day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsos4devs/joke-of-the-day-api.git"
+  },
+  "keywords": [
+    "Joke",
+    "of",
+    "the",
+    "day"
+  ],
+  "author": "memo <mohammed.fouad90@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsos4devs/joke-of-the-day-api/issues"
+  },
+  "homepage": "https://github.com/itsos4devs/joke-of-the-day-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
